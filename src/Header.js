@@ -31,10 +31,13 @@ function Header() {
 			</div>
 
 			<div className='header_nav'>
-				<div className='header_option'>
-					<span className="header__optionLineOne">Hello Guest</span>
-					<span className="header__optionLineTwo">Sign In</span>
-				</div>
+				<Link style={{textDecoration: 'none'}} to="/login">
+					<div className='header_option'>
+						<span className="header__optionLineOne">Hello Guest</span>
+						<span className="header__optionLineTwo">Sign In</span>
+					</div>
+				</Link>
+
 
 				<div className='header_option'>
 					<span className="header__optionLineOne">Returns</span>

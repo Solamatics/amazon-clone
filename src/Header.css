@@ -37,6 +37,7 @@
 
 .header__optionLineOne {
 	font-size: 10px;
+	text-decoration: none;
 }
 
 .header__optionLineTwo {
