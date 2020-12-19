@@ -17,7 +17,7 @@ function Home() {
 						id="12321341" 
 						title="The lean Startup: How Constant Innovation Creates Radically Successful Businesses Paperback" 
 						price={29.99} 
-						image="https://gornapolkatvn.files.wordpress.com/2013/03/metoda-lean-startup.jpg"  
+						image="https://www.pearson.fr/resources/titles/27440100848370/images/27440100848370L.jpg"  
 						rating={5} 
 					/>
 					<Product 
