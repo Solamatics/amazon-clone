@@ -42,7 +42,8 @@ function Login() {
 			<Link to="/">
 				<img 
 					className="login__logo"
-					src="https://www.ampercent.com/wp/wp-content/uploads/Amazon-Logo.png" 
+					src="https://www.ampercent.com/wp/wp-content/uploads/Amazon-Logo.png"
+					alt="" 
 				/>
 			</Link>
 
