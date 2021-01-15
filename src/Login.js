@@ -59,7 +59,7 @@ function Login() {
 
 					<h5>Password</h5>
 					<input type="password" 
-						value={password} value={password} 
+						value={password} 
 						onChange={e => setPassword(e.target.value)}  
 					/>
 
